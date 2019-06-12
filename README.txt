@@ -1,31 +1,19 @@
-Photon by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Memoment
 
+Memoment is an application for people who want to write reviews of movie, performance, and exhibition.
 
-A simple (gradient-heavy) single pager that revisits a style I messed with on two
-previous designs (Tessellate and Telephasic). Fully responsive, built on Sass,
-and, as usual, loaded with an assortment of pre-styled elements. Have fun! :)
+There are three main features:
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+1) Write Review
 
-(* = Not included)
+There are two kinds of review that users can write. First one is 'comment' of one or two sentences. Second one is 'review' of long paragraphs with a photo. Users can share their reviews with others.
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+2) Price Comparison
 
-AJ
-aj@lkn.io | @ajlkn
+When they want to reserve tickets, users can compare ticket prices of different reservation platforms using this app. Users can choose one platform and go directly to the reservation website.
 
+3) Recommendation
 
-Credits:
+Based on user's information and reviews, memoment recommends movies, performances, and exhibitions that users may like. Also, on user's feed, memoment gives information about works in which users are interested.
 
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+For more information, please visit Memoment website: https://bit.ly/2Xf2OvM
